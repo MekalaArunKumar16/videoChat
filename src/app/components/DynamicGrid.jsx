@@ -200,7 +200,7 @@ const DynamicGrid = ({ participants, suggestedParticipants }) => {
                 <div className="flex justify-between items-center pb-6 py-4 px-1 border-b-2">
                     <div className="flex gap-2">
                         <Image src={logo} alt="logo" />
-                        <div className="font-sans text-3xl font-bold">Houseparty</div>
+                        <div className="font-sans text-3xl font-bold">MyWorld</div>
                     </div>
                     <FaAngleLeft size={30} className="text-gray-400 p-1" />
                 </div>
